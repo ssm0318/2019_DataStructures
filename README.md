@@ -1,1 +1,8 @@
 # DataStructures2019
+
+PA1: 100/100
+PA2: 100/100
+PA3: 100/100
+PA4: 100/100
+
+Final Score: A0
