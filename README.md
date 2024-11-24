@@ -1,4 +1,4 @@
-# DataStructures2019
+# 2019_DataStructures
 
 PA1 (Stack Calculator): 100/100  
 PA2 (Book Search): 100/100  
